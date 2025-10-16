@@ -355,7 +355,6 @@
 .desc-head{
     padding-top: 20px;
 }
-
 .desc-paragraph{
     padding-top: 10px;
     margin-bottom: 50px;
@@ -685,5 +684,8 @@ textarea{
         float: none;
         margin-right: 0;
         margin-bottom: 10px;
+    }
+    .pplancard{
+        padding: 12px;
     }
 }
