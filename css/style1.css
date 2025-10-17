@@ -283,7 +283,7 @@
 .service-heading{
     text-align: center;
     margin-bottom: 70px;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .service-container{
@@ -337,13 +337,10 @@
     margin: auto;
     border: 2px solid red;
 }
-
-
 .desc-image{
     width: 150px;
     
 }
-
 .desc-step{
     text-align: center;
     background-color: #fff;
